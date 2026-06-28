@@ -9,7 +9,7 @@ const CONFIG = {
   // kode rahasia (jumlah angka = jumlah titik di layar = 6). clue: tanggal spesial
   password: "290606",
 
-// ---------- surat ----------
+  // ---------- surat ----------
   letter: [
     "My dearest bb,",
     "today marks the second year that i have joined the world in celebrating the most special person to me. thank u for being an important part of my life, aku tau ini bukan tahun yang mudah but I AM SO PROUD OF YOUUU KARNA SUDAH MAU BERTAHANN SAMPAI SEJAUH INI. i am very grateful cause you are happy to be willing to be a place to share complaints and happiness. you are the one bb, you are the one yang bikin hari harii aku lebih berarti dari sebelum sebelumnya, so keep maintaining your sweet smile ya ^-^",
@@ -59,7 +59,6 @@ const CONFIG = {
    ============================================================ */
 const $ = (id) => document.getElementById(id);
 $("heroName").textContent = CONFIG.name;
-$("letterName").textContent = CONFIG.name;
 $("heroDate").innerHTML = `${CONFIG.dateLabel} &nbsp;·&nbsp; THE MOST SPECIAL DAY`;
 $("letterStamp").textContent = CONFIG.stamp;
 $("wishText").textContent = CONFIG.wish.replace(/\{name\}/g, CONFIG.name);
