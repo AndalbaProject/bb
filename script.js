@@ -7,7 +7,7 @@ const CONFIG = {
   dateLabel: "29 JUNE 2006",
   stamp: "29 June",
   // kode rahasia (jumlah angka = jumlah titik di layar = 6). clue: tanggal spesial
-  password: "000000",
+  password: "290606",
 
   // ---------- surat ----------
   letter: [
