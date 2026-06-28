@@ -9,9 +9,9 @@ const CONFIG = {
   // kode rahasia (jumlah angka = jumlah titik di layar = 6). clue: tanggal spesial
   password: "290606",
 
-  // ---------- surat ----------
+// ---------- surat ----------
   letter: [
-    "for my dearest love!",
+    "My dearest bb,",
     "today marks the second year that i have joined the world in celebrating the most special person to me. thank u for being an important part of my life, aku tau ini bukan tahun yang mudah but I AM SO PROUD OF YOUUU KARNA SUDAH MAU BERTAHANN SAMPAI SEJAUH INI. i am very grateful cause you are happy to be willing to be a place to share complaints and happiness. you are the one bb, you are the one yang bikin hari harii aku lebih berarti dari sebelum sebelumnya, so keep maintaining your sweet smile ya ^-^",
     "aku harap kita bisa terus grow bareng, saling ngerti, saling support, and keep choosing each other. i hope we both will continue to be each other's safe place. you have to remember, seberat apa pun nanti jalannyaa aku bakal selalu bangga sama kamu and try hard to always be there for youu",
     "once again, selamat bertambah usiaaa yaa sayangku, semoga semua yang baik terus ditambahkan and all your dreams can come true one by one. the best warm prayers from the person who will always be by your side. i love youu more than yesterday, but less than tomorrow. my feelings for you will never change cause i will continue to love youu, more than words can ever explain. have a great birthday sayang!",
